@@ -6,13 +6,20 @@ view detailed information about each product, add products to a cart, and remove
 The app also includes a drawer navigation menu for easy access to different screens.
 
 # Features
- Home Screen: Displays a list of available products fetched from an external API.
- Product Detail Screen: Shows detailed information about a selected product.
- Cart Screen: Displays items that have been added to the cart.
- Drawer Navigation: Accessible through a swipe gesture or button, allowing navigation between screens.
- Add to Cart: Adds products to the cart from both the Home Screen and Product Detail Screen.
- Remove from Cart: Removes products from the cart on the Cart Screen.
- Local Storage: Uses AsyncStorage to store selected items locally on the device.
+ # Home Screen:
+ Displays a list of available products fetched from an external API.
+ # Product Detail Screen:
+ Shows detailed information about a selected product.
+ # Cart Screen:
+ Displays items that have been added to the cart.
+ # Drawer Navigation:
+ Accessible through a swipe gesture or button, allowing navigation between screens.
+ # Add to Cart:
+ Adds products to the cart from both the Home Screen and Product Detail Screen.
+ #Remove from Cart:
+ Removes products from the cart on the Cart Screen.
+ #Local Storage:
+ Uses AsyncStorage to store selected items locally on the device.
 
 # Screenshots
 ![image](https://github.com/user-attachments/assets/c28c4913-95b1-402e-a2e4-c8dd9dfc6d2f)
